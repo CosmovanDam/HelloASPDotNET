@@ -37,3 +37,5 @@ C:\Users\Ethan Kovalenko\codecamp2020\visual_studio\HelloASPDotNET\obj\Debug\net
 C:\Users\Ethan Kovalenko\codecamp2020\visual_studio\HelloASPDotNET\obj\Debug\netcoreapp3.1\HelloASPDotNET.csproj.CopyComplete
 C:\Users\Ethan Kovalenko\codecamp2020\visual_studio\HelloASPDotNET\obj\Debug\netcoreapp3.1\Razor\Views\Hello\Index.cshtml.g.cs
 C:\Users\Ethan Kovalenko\codecamp2020\visual_studio\HelloASPDotNET\obj\Debug\netcoreapp3.1\Razor\Views\Hello\Welcome.cshtml.g.cs
+C:\Users\Ethan Kovalenko\codecamp2020\visual_studio\HelloASPDotNET\obj\Debug\netcoreapp3.1\Razor\Views\Events\Index.cshtml.g.cs
+C:\Users\Ethan Kovalenko\codecamp2020\visual_studio\HelloASPDotNET\obj\Debug\netcoreapp3.1\Razor\Views\Events\Add.cshtml.g.cs

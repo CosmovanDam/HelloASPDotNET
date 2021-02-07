@@ -1,0 +1,20 @@
+﻿<h1>Coding Events</h1>
+
+@*   Add links for users to navigate instead of navigating through
+     the URL    *@
+<p>
+    <a asp-controller="Events" asp-action="Add">Add Event</a>
+</p>
+
+
+@if (ViewBag.events.Count == 0)
+{
+    <p>No events yet!</p>
+}
+
+<ul>
+    @foreach (string meeting in ViewBag.events)
+    {
+        <li>@meeting</li> // Adds each item into the list
+    }
+</ul>
