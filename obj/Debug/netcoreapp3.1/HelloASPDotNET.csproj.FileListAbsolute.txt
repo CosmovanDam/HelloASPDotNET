@@ -35,3 +35,5 @@ C:\Users\Ethan Kovalenko\codecamp2020\visual_studio\HelloASPDotNET\obj\Debug\net
 C:\Users\Ethan Kovalenko\codecamp2020\visual_studio\HelloASPDotNET\obj\Debug\netcoreapp3.1\HelloASPDotNET.pdb
 C:\Users\Ethan Kovalenko\codecamp2020\visual_studio\HelloASPDotNET\obj\Debug\netcoreapp3.1\HelloASPDotNET.genruntimeconfig.cache
 C:\Users\Ethan Kovalenko\codecamp2020\visual_studio\HelloASPDotNET\obj\Debug\netcoreapp3.1\HelloASPDotNET.csproj.CopyComplete
+C:\Users\Ethan Kovalenko\codecamp2020\visual_studio\HelloASPDotNET\obj\Debug\netcoreapp3.1\Razor\Views\Hello\Index.cshtml.g.cs
+C:\Users\Ethan Kovalenko\codecamp2020\visual_studio\HelloASPDotNET\obj\Debug\netcoreapp3.1\Razor\Views\Hello\Welcome.cshtml.g.cs
